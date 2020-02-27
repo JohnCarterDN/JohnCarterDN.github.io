@@ -33,3 +33,4 @@
 101棕褐色      #DB9370  102紫红色    #D8BFD8  103石板蓝色 #ADEAEA 
 104浓深棕色    #5C4033  105淡浅灰色  #CDCDCD  106紫罗兰色 #4F2F4F 
 107紫罗兰红色  #CC3299  108麦黄色    #D8D8BF  109黄绿色   #99CC32
+https://t.me/proxy?server=107.173.118.191&port=42495&secret=dd93447f3d454708fc00df84e03d72fc
